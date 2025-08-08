@@ -1,0 +1,5 @@
+Flask
+spaCy
+pdfplumber
+psycopg2-binary
+SQLAlchemy
